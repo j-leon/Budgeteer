@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Budgeteer</string>
+    <string name="balance_placeholder">Balance: $1%s</string>
+    
+    <string name="menu_add_entry">Add</string>
+    
+</resources>
